@@ -1,2 +1,2 @@
-# todo_list
+# todo list
 Terminal based todo list manager
